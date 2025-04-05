@@ -1,7 +1,7 @@
 🚀 **Как запустить проект?** 🚀
 ```bash cd /home/$USER
 git clone git@github.com:RestlessByte/taskForSpacesProjects.git 
-cd taskForSpacesProjectsR
+cd taskForSpacesProjects
 python3 -m venv myenv
 source myenv/bin/activate
 pip install -r requirements.txt
