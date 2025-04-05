@@ -1,6 +1,5 @@
-# How Use?
-## Open Terminal Linux and
-cd /home/$USER
+🚀 **Как запустить проект?** 🚀
+```bash cd /home/$USER
 git clone git@github.com:RestlessByte/taskForSpacesProjects.git 
 cd taskForSpacesProjectsR
 python3 -m venv myenv
